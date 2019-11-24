@@ -1,12 +1,12 @@
-#This is a reactjs project. Follow the steps below.
+# This is a reactjs project. Follow the steps below.
 
 Go to the project location where it is cloned and pulled in the command prompt and run the following commands.
 
-###npm install
+### `npm install`
 
 then
 
-###npm start
+### `npm start`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
