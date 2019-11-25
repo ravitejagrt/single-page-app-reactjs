@@ -249,7 +249,7 @@ class App extends React.Component{
       <div className={classes.App}>
         <Router>
           <div className={classes.header}>
-			<h1 align= "center">Blogging with RT</h1>
+			<h1 align= "center">Welcome to Blogging with RT</h1>
           </div>
           <div className={classes.mainContent}>
             <div className={classes.bodyContent}>
@@ -277,7 +277,7 @@ class App extends React.Component{
             </div>
           </div>
           <div className={classes.footer}>
-			<h5 className={classes.copyright}>Copyright * RT</h5>
+			<h5 className={classes.copyright} align="center">Copyright * RT</h5>
           </div>
         </Router>
       </div>
