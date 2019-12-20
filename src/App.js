@@ -186,7 +186,7 @@ class App extends React.Component{
   setFutureApiCall = () => {
     timeOutCall = setTimeout(()=> {
       this.updateNews();
-    }, 10000)
+    }, 5000)
   }
 
   componentWillUnmount(){
